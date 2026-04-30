@@ -13,7 +13,7 @@ export default function HomePage() {
           <motion.h1 initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.4 }} className="font-serif text-5xl font-bold tracking-wide sm:text-6xl">BLUEPRINT</motion.h1>
           <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.4, delay: 0.2 }} className="font-serif text-2xl sm:text-3xl">Career Explorer</motion.p>
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.4, delay: 0.4 }} className="space-y-4">
-            <p className="text-xl font-semibold leading-8 sm:text-2xl">Find careers that fit your life.</p>
+            <p className="text-xl font-semibold leading-8 sm:text-2xl">Helping students find their path.</p>
             <p className="mx-auto max-w-md text-lg leading-8 text-[#CADCFC]">
               You do not need a perfect plan. Start with what matters to you, and we will show you real options you can actually reach.
             </p>
